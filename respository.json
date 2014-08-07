@@ -1,0 +1,13 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "D3R",
+			"details": "https://github.com/d3r/sublime-d3r",
+			"releases": [
+				{
+					"details": "https://github.com/fraoustin/sublime-d3r/tags"
+				}
+			]
+		}
+}
