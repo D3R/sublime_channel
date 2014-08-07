@@ -3,11 +3,21 @@
 	"packages": [
 		{
 			"name": "D3R",
-			"details": "https://github.com/d3r/sublime-d3r",
+			"details": "https://github.com/d3r/SublimeD3R",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/d3r/sublime-d3r/tags"
+					"details": "https://github.com/d3r/SublimeD3R/tags"
+				}
+			]
+		},
+		{
+			"name": "D3R HEAD",
+			"details": "https://github.com/d3r/SublimeD3R",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/d3r/SublimeD3R"
 				}
 			]
 		}
