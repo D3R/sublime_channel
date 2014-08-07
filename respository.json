@@ -7,7 +7,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/fraoustin/sublime-d3r/tags"
+					"details": "https://github.com/d3r/sublime-d3r/tags"
 				}
 			]
 		}
