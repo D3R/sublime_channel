@@ -1,8 +1,15 @@
 {
 	"schema_version": "2.0",
 	"packages": [
-	  	{
-			"details": "https://github.com/D3R/SublimeD3R"
+		{
+			"name": "D3R",
+			"details": "https://github.com/d3r/SublimeD3R",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/d3r/SublimeD3R"
+				}
+			]
 		}
 	]
 }
