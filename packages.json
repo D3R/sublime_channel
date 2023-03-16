@@ -10,6 +10,16 @@
 					"details": "https://github.com/d3r/SublimeD3R"
 				}
 			]
+		},
+		{
+			"name": "Github Search Plugin",
+			"details": "https://github.com/ronanchilvers/sublime-text-github-search-plugin",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/ronanchilvers/sublime-text-github-search-plugin"
+				}
+			]
 		}
 	]
 }
